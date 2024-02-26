@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-# pip3 install pypdf
+# pip3 install pypdf  
 
 import os
 from pypdf import PdfMerger as pm
